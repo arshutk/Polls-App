@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(110, 97, 97);
+}
+
+li a {
+    color: rgb(13, 214, 13);
+}
+
+li{
+    list-style-type: square !important;
+}
